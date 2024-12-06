@@ -1,0 +1,13 @@
+venv/
+/venv/
+venv
+__pycache__
+dist/
+/dist/
+build/
+/build/
+build
+dist
+/__pycache__
+/__pycache__/
+__pycache__/
